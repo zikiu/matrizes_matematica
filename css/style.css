@@ -1,0 +1,47 @@
+#titulo {
+    background: rgb(9, 115, 121);
+    background: linear-gradient(90deg, rgba(9, 115, 121, 1) 30%, rgba(0, 112, 255, 0.969625350140056) 100%);
+    color: aliceblue;
+    text-align: center;
+    border-radius: 18px;
+}
+
+body {
+    background-color: bisque;
+}
+
+.tabelas {
+    border: solid rgb(75, 101, 185)
+}
+
+.subt {
+    background: rgb(9, 115, 121);
+    background: linear-gradient(90deg, rgba(9, 115, 121, 1) 30%, rgba(0, 112, 255, 0.969625350140056) 100%);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 7cm;
+}
+
+.fotos {
+    border: solid hsl(226, 44%, 51%);
+
+}
+
+.alterar {
+    text-align: center;
+
+}
+
+a:link,
+a:visited {
+    border: solid hsl(226, 44%, 51%);;
+    padding: 13px;
+    text-align: center;
+    text-decoration: double;
+    display: inline-block;
+   
+}
+
+a:hover {
+    background-color: rgb(188, 216, 218);
+}
